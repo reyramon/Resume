@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local environment
+.env
+.venv/
+venv/
+
+# Private resume inputs
+resume-source-data.md
+resume-source-data copy.md
+career-profile.md
+career-profile-updated.md
+rey-career-profile.md
+rey-career-profile-updated.md
+global_resume_screening_answers.md
+job_description.txt
+job_description.md
+temp
+
+# Generated working files
+job_analysis.md
+resume_strategy.md
+generated_resume.md
+final_resume.md
+final_resume.docx
+
+# Generated output packages
+Global Resume/
+Resumes/
+resumes/
